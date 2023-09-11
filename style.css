@@ -1,0 +1,32 @@
+.titulo{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.botones{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.collect{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+}
+
+.texto{
+    text-align:center;
+    font-family: cursive;
+}
+
+.inbox{
+    align-items: right;
+}
+
+.us{
+    
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke
+
+}
